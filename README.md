@@ -3,9 +3,16 @@
 - [우분투](#우분투)
 - [mac](#mac)
 
+[git 튜토리얼](#git-튜토리얼)
 # 개발 환경 세팅
+GCC(GNU Compiler Collection)를 지원하는 오픈소스 IDE인 `Code :: Blocks`를 사용하여 C/C++ 코드를 작성할 겁니다.
+
 본인의 OS에 따라 아래 안내를 따라주십시오.
 
+> Code :: Blocks 를 사용하는 이유??  
+> 1. 무료이다.
+> 2. 크로스 플랫폼이다.
+> 3. Visual Studio의 컴파일러는 알고리즘 대회 등의 컴파일러와 달라서 학습시 혼동될수있다.
 ## 윈도우
 - ### mingw 설치 
 
@@ -24,4 +31,12 @@
 
 ## 우분투
 
+[참고](http://kkikkodev.tistory.com/40)
+
+
 ## mac
+~~깔아보니 맥에서 코드블럭은 쓰레기였다..~~ **깔지 않는걸 추천한다.**
+
+재학중인 학생이라면 코드블럭 대신 [CLion](https://www.jetbrains.com/clion/)을 깔자. 원래는 유료 IDE이지만 학생 인증을 받으면 무료다.
+
+# git 튜토리얼
