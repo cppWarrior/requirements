@@ -4,6 +4,14 @@
 - [mac](#mac)
 
 [git 튜토리얼](#git-튜토리얼)
+- [git이란?](#git이란)
+- [git 설치](#git-설치)
+- [git 기본명령어](#git-기본명령어)
+- [git 가지치기](#git-가지치기)
+- [git flow](#git-flow)
+- [GitKraken](#gitkraken)
+- [실습](#실습)
+
 # 개발 환경 세팅
 GCC(GNU Compiler Collection)를 지원하는 오픈소스 IDE인 `Code :: Blocks`를 사용하여 C/C++ 코드를 작성할 겁니다.
 
@@ -40,3 +48,17 @@ GCC(GNU Compiler Collection)를 지원하는 오픈소스 IDE인 `Code :: Blocks
 재학중인 학생이라면 코드블럭 대신 [CLion](https://www.jetbrains.com/clion/)을 깔자. 원래는 유료 IDE이지만 학생 인증을 받으면 무료다.
 
 # git 튜토리얼
+
+## git이란?
+
+## git 설치
+
+## git 기본명령어
+
+## git 가지치기
+
+## git flow
+
+## GitKraken
+
+## 실습
