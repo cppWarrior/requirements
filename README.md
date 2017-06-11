@@ -149,7 +149,7 @@ git pull
 
 [GitKraken](https://www.gitkraken.com/)
 
-![gitkraken](/gitkraken.PNG)
+![gitkraken](/gitkraken.png)
 
 ## 실습
 
